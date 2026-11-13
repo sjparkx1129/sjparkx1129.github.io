@@ -10,9 +10,6 @@ site_name = "sjparkx1129"
 # repo_name = "user/repo"
 # edit_uri = "edit/main/docs/"
 
-nav = [
-  { "소개" = "index.md" },
-]
 
 # extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
